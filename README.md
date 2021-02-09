@@ -2,11 +2,11 @@
 
 ## Deelnemers:
 
-Jayden Macbean
+- Jayden Macbean
 
-Jayden Held
+- Jayden Held
 
-Byron van Herrewaarden
+- Byron van Herrewaarden
 
 
 ### Link Trello: https://trello.com/b/NoOTHyCI/arcade-mechanics
