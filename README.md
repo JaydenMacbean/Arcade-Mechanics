@@ -1,5 +1,3 @@
-"# Arcade-Mechanics" 
-
 Beroepsopdracht Project - Arcade Mechanics
 
 Deelnemers:
