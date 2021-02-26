@@ -6,6 +6,7 @@ public class Movement : MonoBehaviour
 {
 
     private Rigidbody2D _rigidbody;
+    public float JumpForce = 1f;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +24,11 @@ public class Movement : MonoBehaviour
         if (Input.GetKey(KeyCode.D))
         {
             transform.position = transform.position + new Vector3(0.045f, 0, 0);
+        }
+
+        if (Input.GetButtonDown("Jump") && Mathf.Abs(_rigidbody.velocity.y) < 0.001f)
+        {
+            _rigidbody.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);
         }
     }
 }
