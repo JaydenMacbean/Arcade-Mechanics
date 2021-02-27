@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 713f78b345deaf949b295cd57ae78e13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6401928515002386193
+    second: Yun_Idle_0
+  - first:
+      213: 3518146673734443307
+    second: Yun_Idle_1
+  - first:
+      213: -2893431902178107533
+    second: Yun_Idle_2
+  - first:
+      213: -4926799195821734158
+    second: Yun_Idle_3
+  - first:
+      213: 2672956199477511432
+    second: Yun_Idle_4
+  - first:
+      213: 1273328455201834646
+    second: Yun_Idle_5
+  - first:
+      213: -1929357729403940471
+    second: Yun_Idle_6
+  - first:
+      213: 4269025785992288505
+    second: Yun_Idle_7
+  - first:
+      213: -2559520262238498621
+    second: Yun_Idle_8
+  - first:
+      213: 6233562951104999445
+    second: Yun_Idle_9
+  - first:
+      213: 2671073579316511177
+    second: Yun_Idle_10
+  - first:
+      213: -579759688547501400
+    second: Yun_Idle_11
+  - first:
+      213: -884302217804687014
+    second: Yun_Idle_12
+  - first:
+      213: -9008277567445283654
+    second: Yun_Idle_13
+  - first:
+      213: 2815052488968298066
+    second: Yun_Idle_14
+  - first:
+      213: 2442717031151557421
+    second: Yun_Idle_15
+  - first:
+      213: -5962572665834457171
+    second: Yun_Idle_16
+  - first:
+      213: -1563414401645935647
+    second: Yun_Idle_17
+  - first:
+      213: 43951597432344189
+    second: Yun_Idle_18
+  - first:
+      213: 1987896530559000609
+    second: Yun_Idle_19
+  - first:
+      213: 1523203619836257809
+    second: Yun_Idle_20
+  - first:
+      213: -3707949604836755050
+    second: Yun_Idle_21
+  - first:
+      213: -2522593664306641967
+    second: Yun_Idle_22
+  - first:
+      213: 8511540304729130407
+    second: Yun_Idle_23
+  - first:
+      213: 8022610276457272082
+    second: Yun_Idle_24
+  - first:
+      213: 409320912513440200
+    second: Yun_Idle_25
+  - first:
+      213: 8077935826127427771
+    second: Yun_Idle_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yun_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174926c01838d850800000000000000
+      internalID: 6401928515002386193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 480
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21e9a382c7f2d030800000000000000
+      internalID: 3518146673734443307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f14e8d30778d7d0800000000000000
+      internalID: -2893431902178107533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 480
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f68d551c3e70abb0800000000000000
+      internalID: -4926799195821734158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8050902608f381520800000000000000
+      internalID: 2672956199477511432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c3becb75cba110800000000000000
+      internalID: 1273328455201834646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98159360e5b8935e0800000000000000
+      internalID: -1929357729403940471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 384
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f89d078550ae3b30800000000000000
+      internalID: 4269025785992288505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 384
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c01cd5e1e1ca7cd0800000000000000
+      internalID: -2559520262238498621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 384
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51036a92a70128650800000000000000
+      internalID: 6233562951104999445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c18718b44f811520800000000000000
+      internalID: 2671073579316511177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 288
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaf80d82a744f7f0800000000000000
+      internalID: -579759688547501400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 288
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5959a171d35ab3f0800000000000000
+      internalID: -884302217804687014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 288
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abccd42c74b2cf280800000000000000
+      internalID: -9008277567445283654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 288
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed80de253111720800000000000000
+      internalID: 2815052488968298066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bd590a23646e120800000000000000
+      internalID: 2442717031151557421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7bb7160cfa04da0800000000000000
+      internalID: -5962572665834457171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e30a2192e2ad4ae0800000000000000
+      internalID: -1563414401645935647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e0448beb52c9000800000000000000
+      internalID: 43951597432344189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 192
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120633abc5d669b10800000000000000
+      internalID: 1987896530559000609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ede83f91832510800000000000000
+      internalID: 1523203619836257809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 96
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b7aeda77ba8cc0800000000000000
+      internalID: -3707949604836755050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 96
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d30a567d62fdfcd0800000000000000
+      internalID: -2522593664306641967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5ccc2afc01f1670800000000000000
+      internalID: 8511540304729130407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 96
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21352a37a89065f60800000000000000
+      internalID: 8022610276457272082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9908583333ea500800000000000000
+      internalID: 409320912513440200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb81abac5d79a1070800000000000000
+      internalID: 8077935826127427771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
