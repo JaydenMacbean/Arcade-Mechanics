@@ -1,0 +1,40 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Character_Movement
+{
+    public class Movement : MonoBehaviour
+    {
+        public float characterSpeed = 10.0f;
+        protected Rigidbody2D _rb2D;
+        public float JumpForce = 1f;
+        protected Vector2 Shmoovin;
+
+        // Start is called before the first frame update
+        void Start()
+        {
+            _rb2D = GetComponent<Rigidbody2D>();
+            
+        }
+
+        // Update is called once per frame
+        void Update()
+        {   
+            Shmoovin = new Vector2(Input.GetAxis("Horizontal"), 0);
+            ShmooveCharacter(Shmoovin);
+
+            if (Input.GetKeyDown(KeyCode.I) && Mathf.Abs(_rb2D.velocity.y) < 0.001f)
+            {
+                _rb2D.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);
+            }
+        }
+
+        void ShmooveCharacter(Vector2 direction)
+        {
+            _rb2D.MovePosition((Vector2)transform.position + (direction * characterSpeed * Time.deltaTime));
+        }
+
+
+    }
+}
