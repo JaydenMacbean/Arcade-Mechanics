@@ -48,6 +48,7 @@ namespace movement_Character2
                 {
                     cAnim.SetBool("Is_Walking_Backward", true);
                     _rb2D.velocity = new Vector2(-characterSpeed, 0);
+                    Debug.Log("I'm walking :D");
                 }
             }
 
