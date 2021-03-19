@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 21f2aafffd3fc1e4b8b8befcf01f4919
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5065615626607501434
+    second: Yun_DashPunch_0
+  - first:
+      213: 8930273501068078442
+    second: Yun_DashPunch_1
+  - first:
+      213: 4262065451487021177
+    second: Yun_DashPunch_2
+  - first:
+      213: -7190937587798393661
+    second: Yun_DashPunch_3
+  - first:
+      213: 2182298399282334857
+    second: Yun_DashPunch_4
+  - first:
+      213: -5923913832863366121
+    second: Yun_DashPunch_5
+  - first:
+      213: -5755935169325908613
+    second: Yun_DashPunch_6
+  - first:
+      213: -3191955566711924354
+    second: Yun_DashPunch_7
+  - first:
+      213: -405539509034780733
+    second: Yun_DashPunch_8
+  - first:
+      213: -4479131663445600986
+    second: Yun_DashPunch_9
+  - first:
+      213: 4890813595195874901
+    second: Yun_DashPunch_10
+  - first:
+      213: 9208249495326494173
+    second: Yun_DashPunch_11
+  - first:
+      213: 8817519670170470975
+    second: Yun_DashPunch_12
+  - first:
+      213: 4890080294946750804
+    second: Yun_DashPunch_13
+  - first:
+      213: -9107076739704685327
+    second: Yun_DashPunch_14
+  - first:
+      213: -4269633745758748522
+    second: Yun_DashPunch_15
+  - first:
+      213: -2592877890959331625
+    second: Yun_DashPunch_16
+  - first:
+      213: 5617663658574411201
+    second: Yun_DashPunch_17
+  - first:
+      213: 3581857442078521978
+    second: Yun_DashPunch_18
+  - first:
+      213: 8969543551491660021
+    second: Yun_DashPunch_19
+  - first:
+      213: -7226626119731746846
+    second: Yun_DashPunch_20
+  - first:
+      213: -778363077923231837
+    second: Yun_DashPunch_21
+  - first:
+      213: 2950025628142560872
+    second: Yun_DashPunch_22
+  - first:
+      213: 3276377574572857164
+    second: Yun_DashPunch_23
+  - first:
+      213: -1804716481935693428
+    second: Yun_DashPunch_24
+  - first:
+      213: 7465153793516489839
+    second: Yun_DashPunch_25
+  - first:
+      213: -3724477286952082553
+    second: Yun_DashPunch_26
+  - first:
+      213: 372919738814841472
+    second: Yun_DashPunch_27
+  - first:
+      213: 4158998010730835140
+    second: Yun_DashPunch_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yun_DashPunch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f54672d6153b9b0800000000000000
+      internalID: -5065615626607501434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 505
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2f324f64beeb70800000000000000
+      internalID: 8930273501068078442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 505
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978495d52f5e52b30800000000000000
+      internalID: 4262065451487021177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 505
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccb545fc58a43c90800000000000000
+      internalID: -7190937587798393661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 505
+        width: 101
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c8023f4d4194e10800000000000000
+      internalID: 2182298399282334857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 404
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714082851c70acda0800000000000000
+      internalID: -5923913832863366121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 404
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db622b57fce10b0800000000000000
+      internalID: -5755935169325908613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 404
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e791e43e255e3b3d0800000000000000
+      internalID: -3191955566711924354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 404
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7789517fb3f5af0800000000000000
+      internalID: -405539509034780733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_9
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 404
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625de1acb7de6d1c0800000000000000
+      internalID: -4479131663445600986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 303
+        width: 147
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1d4c5d09afd340800000000000000
+      internalID: 4890813595195874901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 310
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd0b1ce0264acf70800000000000000
+      internalID: 9208249495326494173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 303
+        width: 143
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ac78c3c6f1e5a70800000000000000
+      internalID: 8817519670170470975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_13
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 313
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45140779e1e0dd340800000000000000
+      internalID: 4890080294946750804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_14
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 307
+        width: 157
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcfda3e4f92d9180800000000000000
+      internalID: -9107076739704685327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 215
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690870fcab63fb4c0800000000000000
+      internalID: -4269633745758748522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 211
+        width: 158
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dea76bbb4f340cd0800000000000000
+      internalID: -2592877890959331625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_17
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 216
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5f2f47553f5fd40800000000000000
+      internalID: 5617663658574411201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_18
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 214
+        width: 159
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7afd27bd5055b130800000000000000
+      internalID: 3581857442078521978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_19
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 215
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85e0066583a7c70800000000000000
+      internalID: 8969543551491660021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 113
+        width: 153
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e764d815ddd5bb90800000000000000
+      internalID: -7226626119731746846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 113
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a72b1297e2b235f0800000000000000
+      internalID: -778363077923231837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_22
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 111
+        width: 131
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666cbbcda890f820800000000000000
+      internalID: 2950025628142560872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_23
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 109
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47987a8b08087d20800000000000000
+      internalID: 3276377574572857164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_24
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 107
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c892ee5ebeb54f6e0800000000000000
+      internalID: -1804716481935693428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cc538b2dd899760800000000000000
+      internalID: 7465153793516489839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e53104afff4cc0800000000000000
+      internalID: -3724477286952082553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_27
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0824ac1d680ec2500800000000000000
+      internalID: 372919738814841472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_DashPunch_28
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 0
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccea2bc7aab7b930800000000000000
+      internalID: 4158998010730835140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
