@@ -9,16 +9,12 @@ namespace movement_Character
     {
      
         protected Rigidbody2D _rb2D;
-        private string currentState;
         public float JumpForce = 1f;
+        public bool IsShmoovePressed = false;
         public float speed = 7.0f;
         Animator cAnim;
 
-        //Animation States
-        const string IdleYun = "PlayerYun_Idle";
-        const string YunWalkF = "PlayerYun_WalkF";
-        const string YunWalkB = "PlayerYun_WalkB";
-        const string YunJump = "PlayerYun_Jump";
+       
 
         // Start is called before the first frame update
         void Start()
@@ -28,42 +24,55 @@ namespace movement_Character
             
         }
 
-        void AnimationTransition(string newState)
+
+        void Update()
         {
-            if (currentState == newState) return;
-
-            //Play the Animation
-            cAnim.Play(newState);
-            currentState = newState;
+             
         }
-
         // Update is called once per frame
         void FixedUpdate()
         {
+            if (IsShmoovePressed == false)
+            {
+                cAnim.SetBool("Is_Walking_Backward", false);
+                cAnim.SetBool("Is_Walking_Forward", false);
+                 
+
+
+            }
+
             if (Input.GetKey(KeyCode.A))
             {
+                IsShmoovePressed = true;
+                if (IsShmoovePressed == true)
+                {
+                    cAnim.SetBool("Is_Walking_Backward", true);
+                    transform.position += new Vector3(-1, 0, 0) * speed * Time.deltaTime;
+                }
                 
-                transform.position += new Vector3(-1, 0, 0) * speed * Time.deltaTime;
-                
-                
-            }
-
-            if (Input.GetKeyDown(KeyCode.A))
-            {
-                AnimationTransition(YunWalkB);
-            }
-
-            if (Input.GetKeyUp(KeyCode.A))
-            {
-                AnimationTransition(IdleYun);
-            }
+            } 
 
             if (Input.GetKey(KeyCode.D))
             {
-                
-                transform.position += new Vector3(1, 0, 0) * speed * Time.deltaTime;
-                
+                IsShmoovePressed = true;
+                if (IsShmoovePressed == true)
+                {
+                    cAnim.SetBool("Is_Walking_Forward", true);
+                    transform.position += new Vector3(1, 0, 0) * speed * Time.deltaTime;
+                }
+                 
+            }
 
+            if (Input.GetKey(KeyCode.A) && Input.GetKey(KeyCode.D))
+            {
+                IsShmoovePressed = false;
+                cAnim.SetBool("Is_Walking_Forward", false);
+            }
+
+            else
+            {
+                IsShmoovePressed = false;
+                cAnim.SetBool("Is_Walking_Forward", false);
             }
 
         }
