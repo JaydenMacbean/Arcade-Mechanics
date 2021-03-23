@@ -57,8 +57,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Character\Movement.cs" />
-    <Compile Include="Assets\Scripts\Character\Movement2.cs" />
     <Compile Include="Assets\Scripts\Character\Jump.cs" />
+    <Compile Include="Assets\Scripts\Character\Movement2.cs" />
+    <Compile Include="Assets\Scripts\UI\healthbar\healthbar.cs" />
+    <Compile Include="Assets\Scripts\UI\healthbar\damage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
