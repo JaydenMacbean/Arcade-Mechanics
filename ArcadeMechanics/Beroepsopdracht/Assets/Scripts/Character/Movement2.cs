@@ -27,6 +27,17 @@ namespace movement_Character2
 
         void Update()
         {
+            if (Input.GetKey(KeyCode.A))
+            {
+                Debug.Log("Yun's walking forward :D");
+            }
+
+            if(Input.GetKey(KeyCode.D))
+            {
+                Debug.Log("Yun's walking backwards :D");
+            }
+
+
         }
 
         // Update is called once per frame
@@ -48,7 +59,6 @@ namespace movement_Character2
                 {
                     cAnim.SetBool("Is_Walking_Backward", true);
                     _rb2D.velocity = new Vector2(-characterSpeed, 0);
-                    Debug.Log("I'm walking :D");
                 }
             }
 

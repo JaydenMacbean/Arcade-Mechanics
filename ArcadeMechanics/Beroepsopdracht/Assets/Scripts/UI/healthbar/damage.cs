@@ -17,7 +17,7 @@ public class damage : MonoBehaviour
 
      void Update()
      {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.I))
         {
             Takedamage(20);
         }

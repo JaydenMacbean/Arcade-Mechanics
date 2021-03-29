@@ -18,7 +18,7 @@ public class Jump : MonoBehaviour
     void Update()
     {
         
-        if (Input.GetKeyDown(KeyCode.I) && Mathf.Abs(_rb2D.velocity.y) < 0.001f)
+        if (Input.GetButtonDown("Jump") && Mathf.Abs(_rb2D.velocity.y) < 0.001f)
         {
             _rb2D.velocity = new Vector2(0, JumpForce);
 
