@@ -58,11 +58,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Character\Player2Movement.cs" />
     <Compile Include="Assets\Scripts\Character\Movement.cs" />
-    <Compile Include="Assets\Scripts\UI\healthbar\damage.cs" />
+    <Compile Include="Assets\Scripts\UI\healthbar\Damage.cs" />
+    <Compile Include="Assets\Scripts\UI\healthbar\P2Damage.cs" />
     <Compile Include="Assets\Scripts\Character\Jump.cs" />
     <Compile Include="Assets\Scripts\UI\healthbar\healthbar.cs" />
     <Compile Include="Assets\Scripts\Character\Movement2.cs" />
-    <Compile Include="Assets\Scripts\UI\healthbar\P2Damage.cs" />
+    <Compile Include="Assets\Scripts\Character\Attack.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

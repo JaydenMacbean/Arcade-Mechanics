@@ -80,10 +80,6 @@ namespace movement_Character2
             {
                 IsShmoovePressed = false;
             }
-
-
-
         }
     }
-
 }

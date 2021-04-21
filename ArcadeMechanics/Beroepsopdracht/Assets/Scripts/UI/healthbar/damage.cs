@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class damage : MonoBehaviour
+public class Damage : MonoBehaviour
 {
     public int maxHealth = 100;
     public int currentHealth;

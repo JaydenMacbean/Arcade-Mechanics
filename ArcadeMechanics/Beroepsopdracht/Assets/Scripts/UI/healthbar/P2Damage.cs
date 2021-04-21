@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class P2Damage : MonoBehaviour
 {
     public int maxHealth = 100;
-    public int currentHealth;
+    static public int currentHealth;
     public healthbar healthbar;
 
     void Start()
@@ -27,18 +27,18 @@ public class P2Damage : MonoBehaviour
             Death(0);
         }
     }
-    void Takedamage(int damage)
+    public void Takedamage(int damage)
     {
         currentHealth -= damage;
         healthbar.setHealth(currentHealth);
     }
 
-    void BackToScene(string Scene)
+    public void BackToScene(string Scene)
     {
 
         SceneManager.LoadScene(Scene);
     }
-    void Death(int damage)
+    public void Death(int damage)
     {
         if (currentHealth == 0)
         {
