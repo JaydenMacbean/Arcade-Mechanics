@@ -15,13 +15,13 @@ public class Attack : MonoBehaviour
      
 
     // Start is called before the first frame update
-    void Start()
+    static void Start()
     {
         
     }
 
     // FixedUpdate is called every fixed framerate frame
-    static void FixedUpdate()
+    private static void FixedUpdate()
     {
         Shmoov.Shmoovement();
 
@@ -30,7 +30,7 @@ public class Attack : MonoBehaviour
 
         foreach (Collider2D P2 in Kickbox)
         {
-            KillP2.Takedamage(20);
+            KillP2.Takedamage(25);
             if (P2Damage.currentHealth == 0)
             {
                 KillP2.Death(0);

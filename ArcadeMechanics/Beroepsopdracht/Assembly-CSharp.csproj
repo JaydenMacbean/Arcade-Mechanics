@@ -61,9 +61,10 @@
     <Compile Include="Assets\Scripts\UI\healthbar\Damage.cs" />
     <Compile Include="Assets\Scripts\UI\healthbar\P2Damage.cs" />
     <Compile Include="Assets\Scripts\Character\Jump.cs" />
+    <Compile Include="Assets\Scripts\Character\Attack.cs" />
     <Compile Include="Assets\Scripts\UI\healthbar\healthbar.cs" />
     <Compile Include="Assets\Scripts\Character\Movement2.cs" />
-    <Compile Include="Assets\Scripts\Character\Attack.cs" />
+    <Compile Include="Assets\Scripts\Character\P2Attack.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

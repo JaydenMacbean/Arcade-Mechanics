@@ -9,24 +9,6 @@ public class P2Damage : MonoBehaviour
     static public int currentHealth;
     public healthbar healthbar;
 
-    void Start()
-    {
-        currentHealth = maxHealth;
-        healthbar.SetMaxHealth(maxHealth);
-    }
-
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.O))
-        {
-            Takedamage(20);
-        }
-
-        if (currentHealth == 0)
-        {
-            Death(0);
-        }
-    }
     public void Takedamage(int damage)
     {
         currentHealth -= damage;
@@ -46,4 +28,24 @@ public class P2Damage : MonoBehaviour
             currentHealth = 100;
         }
     }
+
+    void Start()
+    {
+        currentHealth = maxHealth;
+        healthbar.SetMaxHealth(maxHealth);
+    }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.O))
+        {
+            Takedamage(20);
+        }
+
+        if (currentHealth == 0)
+        {
+            Death(0);
+        }
+    }
+     
 }
