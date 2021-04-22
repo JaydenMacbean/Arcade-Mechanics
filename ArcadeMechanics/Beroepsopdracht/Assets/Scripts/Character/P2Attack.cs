@@ -9,7 +9,7 @@ public class P2Attack : MonoBehaviour
     static public Transform AttackBox;
     static public float KickRange = 0.5f;
     static public LayerMask P1Layer;
-    static Movement2 Shmoov = new Movement2();
+    static P1Controller Shmoov = new P1Controller();
     static P2Damage KillP1 = new P2Damage();
 
 

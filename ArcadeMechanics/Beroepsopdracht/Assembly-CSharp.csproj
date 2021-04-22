@@ -56,15 +56,13 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Character\Player2Movement.cs" />
-    <Compile Include="Assets\Scripts\Character\Movement.cs" />
+    <Compile Include="Assets\Scripts\Character\P2Controller.cs" />
     <Compile Include="Assets\Scripts\UI\healthbar\Damage.cs" />
     <Compile Include="Assets\Scripts\UI\healthbar\P2Damage.cs" />
     <Compile Include="Assets\Scripts\Character\Jump.cs" />
-    <Compile Include="Assets\Scripts\Character\Attack.cs" />
     <Compile Include="Assets\Scripts\UI\healthbar\healthbar.cs" />
-    <Compile Include="Assets\Scripts\Character\Movement2.cs" />
     <Compile Include="Assets\Scripts\Character\P2Attack.cs" />
+    <Compile Include="Assets\Scripts\Character\P1Controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
